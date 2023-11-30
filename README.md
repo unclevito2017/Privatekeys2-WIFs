@@ -1,5 +1,5 @@
 # Privatekeys2-WIFs
-Convert bulk private keys to both compressed and uncompressed WIFs
+Convert bulk private keys to both compressed and uncompressed WIFs<br>
 pip3 install hashlib<br>
 pip3 install base58<br>
 Load private keys in pk.txt<br>
